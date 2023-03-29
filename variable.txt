@@ -1,0 +1,24 @@
+package javabasic;
+
+public class Hellovishal {
+       public static void main(String[] args) {
+			// TODO Auto-generated method stub
+	        
+			System.out.println("Hello java");
+			System.out.println(280620);
+			System.out.println(6+6);
+			String name = "vishal parmar";
+			System.out.println(name);
+			int myNum = 15;
+			System.out.println(myNum);
+			String firstName = "vishal  ";
+			String lastName = "parmar";
+			String fullName = firstName + lastName;
+			System.out.println(fullName);
+			
+			
+       }	
+		
+
+
+}
